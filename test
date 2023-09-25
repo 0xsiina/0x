@@ -34,6 +34,4 @@ rm -rf networks
 git clone https://github.com/celestiaorg/networks.git
 
 --------------------------
-CELESTIA_NODENAME="MY_NODE" 
-1
-1234567
+CELESTIA_NODENAME="MY_NODE" 1
